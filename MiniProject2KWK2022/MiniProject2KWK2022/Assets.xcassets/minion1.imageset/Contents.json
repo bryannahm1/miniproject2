@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Rs_634x1024-130605092844-634.DespMe2.mh.060513.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
